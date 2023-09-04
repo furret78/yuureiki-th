@@ -1,5 +1,4 @@
 {
-	"dependencies": [ "nmlgc/base_tsa", "nmlgc/script_latin", "nmlgc/western_name_order" ]
 	"contact": "reimuhakuhaku@gmail.com",
 	"id": "Yuureiki",
 	"patches": {},
