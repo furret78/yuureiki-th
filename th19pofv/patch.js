@@ -6,6 +6,5 @@
   "servers": [
     "https://mirrors.thpatch.net/yuureiki/th19pofv/"
   ],
-  "title": "Change UDoALG's game border to PoFV's.",
-  "update": true
+  "title": "Change UDoALG's game border to PoFV's."
 }
