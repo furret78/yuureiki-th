@@ -1,8 +1,6 @@
 {
   "dependencies": [
     "nmlgc/base_tsa",
-    "nmlgc/base_tasofro",
-    "nmlgc/script_latin",
   ],
   "id": "th185border",
   "servers": [
