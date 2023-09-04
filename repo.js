@@ -1,8 +1,8 @@
 {
 	"contact": "reimuhakuhaku@gmail.com",
-	"id": "Yuureiki",
+	"id": "yuureiki",
 	"servers": [
-		"https://raw.githubusercontent.com/furret78/yuureiki-th/master/"
+		"https://mirrors.thpatch.net/yuureiki/"
 	],
 	"title": "yuureiki's Patches",
 	"patches": {
