@@ -7,7 +7,7 @@
 	],
 	"title": "yuureiki's Patches"
 	"patches": {
-		"th18border": "HBM border misalignment fix.",
+		"th185border": "HBM border misalignment fix.",
 		"th19pofv": "PoFV appearance for UDoALG game board."
 	}
 }
