@@ -1,6 +1,6 @@
 {
   "dependencies": [
-    "nmlgc/base_tsa",
+    "nmlgc/base_tsa"
   ],
   "id": "th19pofv",
   "servers": [
