@@ -6,5 +6,5 @@
   "servers": [
     "https://mirrors.thpatch.net/yuureiki/th19oldspr/"
   ],
-  "title": "Changes certain boss sprites to their non-UDoALG counterparts."
+  "title": "Swaps certain boss sprites for their non-UDoALG counterparts."
 }

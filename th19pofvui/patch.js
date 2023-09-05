@@ -2,9 +2,9 @@
   "dependencies": [
     "nmlgc/base_tsa"
   ],
-  "id": "th19pofv",
+  "id": "th19pofvui",
   "servers": [
-    "https://mirrors.thpatch.net/yuureiki/th19pofv/"
+    "https://mirrors.thpatch.net/yuureiki/th19pofvui/"
   ],
   "title": "Change UDoALG's game border to PoFV's."
 }
