@@ -1,13 +1,10 @@
 {
   "dependencies": [
-    "nmlgc/base_tsa",
-    "nmlgc/base_tasofro",
-    "nmlgc/script_latin",
+    "nmlgc/base_tsa"
   ],
   "id": "th185border",
   "servers": [
     "https://mirrors.thpatch.net/yuureiki/th185border/"
   ],
-  "title": "Fixes HBM's misaligned game border.",
-  "update": true
+  "title": "Fixes HBM's misaligned game border."
 }
