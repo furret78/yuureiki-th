@@ -6,5 +6,5 @@
   "servers": [
     "https://mirrors.thpatch.net/yuureiki/th185border/"
   ],
-  "title": "Fixes HBM's misaligned game border."
+  "title": "Fixes HBM's misaligned game border and boss indicator."
 }
