@@ -6,5 +6,5 @@
   "servers": [
     "https://mirrors.thpatch.net/yuureiki/th185border/"
   ],
-  "title": "Fixes HBM's misaligned game border and boss indicator."
+  "title": "Fixes HBM's misaligned game border, boss indicator, and Koishi's card's Power loss carryover."
 }

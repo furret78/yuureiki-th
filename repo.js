@@ -6,7 +6,7 @@
 	],
 	"title": "yuureiki's Patches",
 	"patches": {
-		"th185border": "HBM border misalignment fix.",
+		"th185border": "Various HBM fixes, including game border and Koishi's card's Power bug.",
 		"th19pofvui": "PoFV appearance for UDoALG game board.",
 		"th19oldspr": "Swaps certain boss sprites for their non-UDoALG counterparts.",
 		"th19gohei": "Restores player Reimu's purification rod.",
